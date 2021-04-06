@@ -1,3 +1,5 @@
+Micro:bitのLEDで花火っぽい感じを再現するためのプログラム
+
 
 > このページを開く [https://shino212.github.io/hanabi/](https://shino212.github.io/hanabi/)
 
